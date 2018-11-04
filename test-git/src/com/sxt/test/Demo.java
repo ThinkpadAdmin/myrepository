@@ -7,5 +7,6 @@ public class Demo {
 	System.out.println("haha");
 	System.out.println("你好");
 	System.out.println("gg2");
+	System.out.println("gg");
 }
 }
