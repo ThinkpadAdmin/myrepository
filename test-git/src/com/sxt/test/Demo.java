@@ -6,5 +6,6 @@ public class Demo {
 	System.out.println("nihao");
 	System.out.println("haha");
 	System.out.println("你好");
+	System.out.println("gg2");
 }
 }
